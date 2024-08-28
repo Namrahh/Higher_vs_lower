@@ -1,0 +1,1 @@
+This Higher-Lower game uses a dataset of social media celebrities and their follower counts to create an interactive game experience. Players are presented with two celebrities and must guess which one has a higher number of followers. The game continues until the player makes an incorrect guess.
